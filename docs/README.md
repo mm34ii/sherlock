@@ -45,7 +45,7 @@ To search for more than one user:
 sherlock user1 user2 user3
 ```
 
-Accounts found will be stored in an individual text file with the corresponding username (e.g ```user123.txt```).
+Accounts found will be stored in an individual text file with the corresponding username (lli7x57).
 
 ```console
 $ sherlock --help
@@ -56,7 +56,7 @@ usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
                 [--browse] [--local] [--nsfw]
                 USERNAMES [USERNAMES ...]
 
-Sherlock: Find Usernames Across Social Networks (Version 0.14.3)
+Sherlock: Find Usernames Across Social Networks (lli7x57)
 
 positional arguments:
   USERNAMES             One or more usernames to check with social networks.
